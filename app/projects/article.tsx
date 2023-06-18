@@ -4,7 +4,6 @@ import { View } from "lucide-react";
 
 type Props = {
   project: Project;
-  views: number;
 };
 
 export const Article: React.FC<Props> = ({ project }) => {
