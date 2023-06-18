@@ -11,7 +11,7 @@ export default async function ProjectsPage() {
     (project) => project.slug === "machine-translation"
   )!;
   const top2 = allProjects.find((project) => project.slug === "my-portfolio")!;
-  const top3 = allProjects.find((project) => project.slug === "access")!;
+  const top3 = allProjects.find((project) => project.slug === "placeholder")!;
   const sorted = allProjects
     .filter((p) => p.published)
     .filter(
