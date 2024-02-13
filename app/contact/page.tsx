@@ -19,9 +19,9 @@ const socials = [
   },
   {
     icon: <Github size={20} />,
-    href: "https://github.com/tonystark11",
+    href: "https://github.com/shubhamprasad0",
     label: "Github",
-    handle: "tonystark11",
+    handle: "shubhamprasad0",
   },
   {
     icon: <Twitter size={20} />,

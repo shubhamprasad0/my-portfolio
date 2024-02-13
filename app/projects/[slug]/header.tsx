@@ -62,7 +62,7 @@ export const Header: React.FC<Props> = ({ project }) => {
                 } `}
               />
             </Link>
-            <Link target="_blank" href="https://github.com/tonystark11">
+            <Link target="_blank" href="https://github.com/shubhamprasad0">
               <Github
                 className={`w-6 h-6 duration-200 hover:font-medium ${
                   isIntersecting
